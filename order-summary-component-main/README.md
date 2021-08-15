@@ -34,16 +34,14 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
 I learned what an svg is.
 I learned how to use flexbox properly
 
 
 ### Continued development
 
-Flexbox
-Working with images and SVGs
+Flexbox.
+Working with images and SVGs.
 
 
 ### Useful resources

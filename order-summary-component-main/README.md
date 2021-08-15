@@ -50,6 +50,6 @@ Working with images and SVGs.
 
 ## Author
 
-- Website - [Daniel](https://realdma.tech)
-- Instagram - [Daniel Andrew](https://instagram.com/dxniel_xndrew/)
-- Github - [Daniel Andrew](https://github.com/danielandrew1)
+- Website - [realdma.tech](https://realdma.tech)
+- Instagram - [dxniel_xndrew](https://instagram.com/dxniel_xndrew/)
+- Github - [DanielAndrew1](https://github.com/danielandrew1)

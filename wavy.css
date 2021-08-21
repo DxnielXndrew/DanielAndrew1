@@ -4,6 +4,7 @@
 }
 body {
     display: flex;
+    flex-display: column;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
